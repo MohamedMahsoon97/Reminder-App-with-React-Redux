@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Reminder-App-with-React-Redux/static/css/main.41d39025.chunk.css",
-    "main.js": "/Reminder-App-with-React-Redux/static/js/main.cd331c40.chunk.js",
-    "main.js.map": "/Reminder-App-with-React-Redux/static/js/main.cd331c40.chunk.js.map",
+    "main.js": "/Reminder-App-with-React-Redux/static/js/main.21983897.chunk.js",
+    "main.js.map": "/Reminder-App-with-React-Redux/static/js/main.21983897.chunk.js.map",
     "runtime-main.js": "/Reminder-App-with-React-Redux/static/js/runtime-main.e6914fdd.js",
     "runtime-main.js.map": "/Reminder-App-with-React-Redux/static/js/runtime-main.e6914fdd.js.map",
     "static/css/2.ea5951e3.chunk.css": "/Reminder-App-with-React-Redux/static/css/2.ea5951e3.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.ea5951e3.chunk.css",
     "static/js/2.4beb5ea2.chunk.js",
     "static/css/main.41d39025.chunk.css",
-    "static/js/main.cd331c40.chunk.js"
+    "static/js/main.21983897.chunk.js"
   ]
 }
